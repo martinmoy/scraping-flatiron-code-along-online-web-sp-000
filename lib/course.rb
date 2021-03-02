@@ -17,7 +17,7 @@ class Course
   end
 
   def self.title
-    @@all.title 
+    @@all
   end
 
 end
